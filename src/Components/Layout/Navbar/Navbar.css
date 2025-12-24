@@ -1,0 +1,13 @@
+.navbar-link {
+	text-transform: capitalize;
+}
+
+.navbar-link:hover {
+	color: oklch(50.947% 0.20858 28.502);
+}
+
+.navbar-link.active {
+	color: oklch(50.947% 0.20858 28.502);
+	padding: 10px;
+	background-color: #000;
+}
